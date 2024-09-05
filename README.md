@@ -8,3 +8,4 @@ repositorio para guardar materiais de aula da disciplina tp546 internet das cois
 5. [Arquitetura de redes de sensores sem fio](https://github.com/sam02/t546-iot/blob/main/aulas/aula5_2024_2.pdf)
 6. [Captação de energia por RF](https://github.com/sam02/t546-iot/blob/main/aulas/aula6_2024_2.pdf)
 7. [Cidades Inteligentes](https://github.com/sam02/t546-iot/blob/main/aulas/aula7_2024_2.pdf)
+8. [IoT na agricultura](https://github.com/sam02/t546-iot/blob/main/aulas/aula08_2024_2.pdf)
