@@ -9,4 +9,4 @@ repositorio para guardar materiais de aula da disciplina tp546 internet das cois
 6. [Captação de energia por RF](https://github.com/sam02/t546-iot/blob/main/aulas/aula6_2024_2.pdf)
 7. [Cidades Inteligentes](https://github.com/sam02/t546-iot/blob/main/aulas/aula7_2024_2.pdf)
 8. [IoT na agricultura](https://github.com/sam02/t546-iot/blob/main/aulas/aula08_2024_2.pdf)
-9. [Rastreabilidade e bigdata na agricultura](https://github.com/sam02/t546-iot/blob/main/aulas/aula09_2024_2.pdf)
+9. [Rastreabilidade e bigdata na agricultura](https://github.com/sam02/t546-iot/blob/main/aulas/aula09tp546.pdf)
