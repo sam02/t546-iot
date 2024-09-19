@@ -11,3 +11,6 @@ repositorio para guardar materiais de aula da disciplina tp546 internet das cois
 8. [IoT na agricultura](https://github.com/sam02/t546-iot/blob/main/aulas/aula08_2024_2.pdf)
 9. [Rastreabilidade e bigdata na agricultura](https://github.com/sam02/t546-iot/blob/main/aulas/aula09tp546.pdf)
 10. [IoT na industria](https://github.com/sam02/t546-iot/blob/main/aulas/aula10_2024_2.pdf)
+11. [Gêmeo digital](https://github.com/sam02/t546-iot/blob/main/aulas/aula11_2024_2.pdf)
+12. [IoT na saúde](https://github.com/sam02/t546-iot/blob/main/aulas/aula12_2024_2.pdf)
+13. [Segurança e IoT](https://github.com/sam02/t546-iot/blob/main/aulas/aula13_2024_2.pdf)
