@@ -16,3 +16,7 @@ repositorio para guardar materiais de aula da disciplina tp546 internet das cois
 13. [Segurança e IoT](https://github.com/sam02/t546-iot/blob/main/aulas/aula13_2024_2.pdf)
 14. [Sensores em redes veiculares](https://github.com/sam02/t546-iot/blob/main/aulas/aula14_2024_2.pdf)
 15. [Redes cooperativas](https://github.com/sam02/t546-iot/blob/main/aulas/aula15_2024_2.pdf)
+16. [Redes Platoon](https://github.com/sam02/t546-iot/blob/main/aulas/aula16_2024_2.pdf)
+17. [Drones](https://github.com/sam02/t546-iot/blob/main/aulas/aula17_2024_2.pdf)
+
+
