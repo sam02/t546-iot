@@ -21,5 +21,7 @@ repositorio para guardar materiais de aula da disciplina tp546 internet das cois
 18. [Aula pratica](https://github.com/sam02/t546-iot/blob/main/aula_pratica_iot.pdf)
 19. [Segurança em redes veiculares](https://github.com/sam02/t546-iot/blob/main/aulas/aula19_2024_2.pdf)
 20. [Redes oportunistas](https://github.com/sam02/t546-iot/blob/main/aulas/aula20_2024_2.pdf)
+21. [internet das coisas multimidia](https://github.com/sam02/t546-iot/blob/main/aulas/aula21_2024_2.pdf)
+22. [Computação de borda móvel](https://github.com/sam02/t546-iot/blob/main/aulas/aula22_2024_2.pdf)
 
 
