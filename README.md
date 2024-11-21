@@ -25,5 +25,6 @@ repositorio para guardar materiais de aula da disciplina tp546 internet das cois
 22. [Computação de borda móvel](https://github.com/sam02/t546-iot/blob/main/aulas/aula22_2024_2.pdf)
 23. [IoT e redes 6G](https://github.com/sam02/t546-iot/blob/main/aulas/aula23_2024_2.pdf)
 24. [6G e redes veiculares](https://github.com/sam02/t546-iot/blob/main/aulas/aula24_2024_2.pdf)
+25. [Protocolos de comunicação para IoT](https://github.com/sam02/t546-iot/blob/main/aulas/aula25_2024_2.pdf)
 
 
