@@ -31,10 +31,11 @@ repositorio para guardar materiais de aula da disciplina tp546 internet das cois
 28. [Aula pratica](https://github.com/sam02/t546-iot/blob/main/aula_pratica_iot.pdf)
 29. [Segurança em redes veiculares](https://github.com/sam02/t546-iot/blob/main/aulas/aula19_2024_2.pdf)
 30. [Redes oportunistas](https://github.com/sam02/t546-iot/blob/main/aulas/aula20_2024_2.pdf)
-31. [internet das coisas multimidia](https://github.com/sam02/t546-iot/blob/main/aulas/aula21_2024_2.pdf)
-32. [Computação de borda móvel](https://github.com/sam02/t546-iot/blob/main/aulas/aula22_2024_2.pdf)
-33. [IoT e redes 6G](https://github.com/sam02/t546-iot/blob/main/aulas/aula23_2024_2.pdf)
-34. [6G e redes veiculares](https://github.com/sam02/t546-iot/blob/main/aulas/aula24_2024_2.pdf)
-35. [Protocolos de comunicação para IoT](https://github.com/sam02/t546-iot/blob/main/aulas/aula25_2024_2.pdf)
+31. [Redes oportunistas English](https://github.com/sam02/t546-iot/blob/main/aulas/aula20_2024_2_English.pdf)
+32. [internet das coisas multimidia](https://github.com/sam02/t546-iot/blob/main/aulas/aula21_2024_2.pdf)
+33. [Computação de borda móvel](https://github.com/sam02/t546-iot/blob/main/aulas/aula22_2024_2.pdf)
+34. [IoT e redes 6G](https://github.com/sam02/t546-iot/blob/main/aulas/aula23_2024_2.pdf)
+35. [6G e redes veiculares](https://github.com/sam02/t546-iot/blob/main/aulas/aula24_2024_2.pdf)
+36. [Protocolos de comunicação para IoT](https://github.com/sam02/t546-iot/blob/main/aulas/aula25_2024_2.pdf)
 
 
