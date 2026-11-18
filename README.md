@@ -37,7 +37,8 @@ repositorio para guardar materiais de aula da disciplina tp546 internet das cois
 35. [IoT e redes 6G](https://github.com/sam02/t546-iot/blob/main/aulas/aula23_2024_2.pdf)
 36. [IoT e redes 6G English](https://github.com/sam02/t546-iot/blob/main/aulas/aula23_2024_2_EN.pdf)
 37. [6G e redes veiculares](https://github.com/sam02/t546-iot/blob/main/aulas/aula24_2024_2.pdf)
-38. [Protocolos de comunicação para IoT](https://github.com/sam02/t546-iot/blob/main/aulas/aula25_2024_2.pdf)
-39. [Protocolos de comunicação para IoT English](https://github.com/sam02/t546-iot/blob/main/aula25_2024_2_EN.pdf)
+38.  [6G e redes veiculares English](https://github.com/sam02/t546-iot/blob/main/aulas/aula24_2024_2_English.pdf)
+39. [Protocolos de comunicação para IoT](https://github.com/sam02/t546-iot/blob/main/aulas/aula25_2024_2.pdf)
+40. [Protocolos de comunicação para IoT English](https://github.com/sam02/t546-iot/blob/main/aula25_2024_2_EN.pdf)
 
 
